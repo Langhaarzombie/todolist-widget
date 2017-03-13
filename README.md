@@ -15,3 +15,7 @@ In addition you will need Python 3.
 Just copy the the plugin's folder to the widget folder on your machine.
 
 See the [widget overview of Übersicht](http://tracesof.net/uebersicht-widgets/) for more information.
+
+## Screenshot
+
+![Screenshot01](./Screenshot.jpeg)
