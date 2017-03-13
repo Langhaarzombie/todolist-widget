@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a [*Überischt*](http://tracesof.net/uebersicht/) widget for the todolist manager *todolist*](https://github.com/gammons/todolist) by [gammons](https://github.com/gammons). It shows you your current tasks as well as their id and their due date.
+This is a [*Überischt*](http://tracesof.net/uebersicht/) widget for the todolist manager [*todolist*](https://github.com/gammons/todolist) by [gammons](https://github.com/gammons). It shows you your current tasks as well as their id and their due date.
 
 ## Prerequisites
 
@@ -14,4 +14,4 @@ In addition you will need Python 3.
 
 Just copy the the plugin's folder to the widget folder on your machine.
 
-See the [widget overview for mor information](http://tracesof.net/uebersicht-widgets/) for more information.
+See the [widget overview of Übersicht](http://tracesof.net/uebersicht-widgets/) for more information.
