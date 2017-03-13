@@ -5,7 +5,7 @@ import sys
 from pprint import pprint
 
 #User specific configurations
-path_to_todos	=	"/Users/max/.todos.json"
+path_to_todos	=	"/Users/USER/.todos.json"
 line_spacing 	= 	"10px"
 color_id 		= 	"#d75e56"
 color_due 		= 	"#f0d847"
