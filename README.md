@@ -18,4 +18,4 @@ See the [widget overview of Übersicht](http://tracesof.net/uebersicht-widgets/)
 
 ## Screenshot
 
-![Screenshot01](./Screenshot.jpeg)
+![Screenshot01](./screenshot.png)
